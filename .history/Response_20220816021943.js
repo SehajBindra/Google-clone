@@ -1,0 +1,93 @@
+export default{
+    kind: 'customsearch#result',
+    title: 'Breaking Bad Scene Locations - Google My Maps',
+    htmlTitle: '<b>Breaking Bad</b> Scene Locations - Google My Maps', 
+    link: 'https://www.google.com/mymaps/viewer?mid=1-jFBx-c6fh31qpoX_VAItUntpnU&hl=en_US',
+    displayLink: 'www.google.com',
+    snippet: "Jun 7, 2015 ... An evolving map of places in Albuquerque where AMC's 'Breaking Bad' has filmed a scene.",
+    htmlSnippet: 'Jun 7, 2015 <b>...</b> An evolving map of places in Albuquerque where AMC&#39;s &#39;<b>Breaking Bad</b>&#39; has filmed a scene.',
+    cacheId: 'KWb-kSgI6g4J',
+    formattedUrl: 'https://www.google.com/mymaps/viewer?mid=1-jFBx-c6fh31qpoX...',
+    htmlFormattedUrl: 'https://www.google.com/mymaps/viewer?mid=1-jFBx-c6fh31qpoX...',
+    pagemap: [Object]
+  },
+  {
+    kind: 'customsearch#result',
+    title: 'Albuquerque Breaking Bad - Google My Maps',
+    htmlTitle: 'Albuquerque <b>Breaking Bad</b> - Google My Maps',     
+    link: 'https://www.google.com/maps/d/viewer?mid=z4fW-TWdM8oo.kzLiisV27vDA&hl=en_US',
+    displayLink: 'www.google.com',
+    snippet: 'Albuquerque Breaking Bad. ... Albuquerque Breaking Bad. Map Legend. Terms. 5 km. This map was created by a user. Learn how to create your own.',
+    htmlSnippet: 'Albuquerque <b>Breaking Bad</b>. ... Albuquerque <b>Breaking Bad</b>. Map Legend. Terms. 5 km. This map was created by a user. Learn how to create your own.',
+    cacheId: 'Dty6Wag3jY4J',
+    formattedUrl: 'https://www.google.com/maps/d/viewer?mid=z4fW-TWdM8oo...hl...',
+    htmlFormattedUrl: 'https://www.google.com/maps/d/viewer?mid=z4fW-TWdM8oo...hl...',
+    pagemap: [Object]
+  },
+  {
+    kind: 'customsearch#result',
+    title: 'Albuquerque Breaking Bad - Google My Maps',
+    htmlTitle: 'Albuquerque <b>Breaking Bad</b> - Google My Maps',     
+    link: 'https://www.google.com/maps/d/embed?mid=1MfLb8v7UNgXLqHgPIK5ZC-CupLk',
+    displayLink: 'www.google.com',
+    snippet: 'May 9, 2017 ... Open full screen to view more. Albuquerque Breaking Bad. Collapse map legend. Map details. Copy map. Zoom to viewport. Embed map.',
+    htmlSnippet: 'May 9, 2017 <b>...</b> Open full screen to view more. Albuquerque <b>Breaking Bad</b>. Collapse map legend. Map details. Copy map. Zoom to viewport. Embed map.',
+    cacheId: 'AVJsFFGWYgMJ',
+    formattedUrl: 'https://www.google.com/maps/d/embed?mid...CupLk',   
+    htmlFormattedUrl: 'https://www.google.com/maps/d/embed?mid...CupLk',
+    pagemap: [Object]
+  },
+  {
+    kind: 'customsearch#result',
+    title: "Hank & Marie's House-Breaking Bad, 4901 Cumbre Del Sur Ct NE ...",
+    htmlTitle: 'Hank &amp; Marie&#39;s House-<b>Breaking Bad</b>, 4901 Cumbre Del Sur Ct NE ...',
+    link: 'https://www.google.com/maps/search/?api=1&query=Hank%20%26%20Marie%27s%20House-Breaking%20Bad%2C%204901%20Cumbre%20Del%20Sur%20Ct%20NE%2C%20Albuquerque%2C%20NM&query_place_id=ChIJWW7nXnefGIcRzgZxCRGu1NU',  
+    displayLink: 'www.google.com',
+    snippet: "Hank & Marie's House-Breaking Bad, 4901 Cumbre Del Sur Ct NE, Albuquerque, NM. Connect to internet to see place info. ·. No reviews. ·. Directions. Start.",
+    htmlSnippet: 'Hank &amp; Marie&#39;s House-<b>Breaking Bad</b>, 4901 Cumbre Del Sur Ct NE, Albuquerque, NM. Connect to internet to see place info. ·. No reviews. ·. Directions. Start.',
+    cacheId: 'mD3RYUg9NDwJ',
+    formattedUrl: 'https://www.google.com/.../search/?... Breaking%20Bad%2C%204901%20Cumbre%20Del%20Sur%20Ct%20NE...',
+    htmlFormattedUrl: 'https://www.google.com/.../search/?... <b>Breaking</b>%20<b>Bad</b>%2C%204901%20Cumbre%20Del%20Sur%20Ct%20NE...',        
+    pagemap: [Object]
+  },
+  {
+    kind: 'customsearch#result',
+    title: 'T11 - Breaking Bad - Google My Maps',
+    htmlTitle: 'T11 - <b>Breaking Bad</b> - Google My Maps',
+    link: 'https://www.google.com/mymaps/viewer?mid=z-A5wnN0Z2Og.kj_1SjXNbRIU&hl=en_US',
+    displayLink: 'www.google.com',
+    snippet: 'Jul 31, 2015 ... Open full screen to view more. T11 - Breaking Bad. Collapse map legend. Map details. Copy map. Zoom to viewport. Embed map. Download KML.',
+    htmlSnippet: 'Jul 31, 2015 <b>...</b> Open full screen to view more. T11 - <b>Breaking Bad</b>. Collapse map legend. Map details. Copy map. Zoom to viewport. Embed map. Download KML.',
+    cacheId: 'EfgjIe3pfBgJ',
+    formattedUrl: 'https://www.google.com/mymaps/viewer?mid=z-A5wnN0Z2Og.kj...',
+    htmlFormattedUrl: 'https://www.google.com/mymaps/viewer?mid=z-A5wnN0Z2Og.kj...',
+    pagemap: [Object]
+  },
+  {
+    kind: 'customsearch#result',
+    title: "Breaking Bad location - Walt's home",
+    htmlTitle: '<b>Breaking Bad</b> location - Walt&#39;s home',       
+    link: 'https://www.google.com/mymaps/viewer?mid=1R0YPvOPaUBytGzC6cx3n-DhEOE8&hl=en_US',
+    displayLink: 'www.google.com',
+    snippet: "Breaking Bad filming location - Walt's home. Breaking Bad filming location - Walt's home. 30 views. Capa sin nombre. Breaking Bad location - Walt's home.",
+    htmlSnippet: '<b>Breaking Bad</b> filming location - Walt&#39;s home. <b>Breaking Bad</b> filming location - Walt&#39;s home. 30 views. Capa sin nombre. <b>Breaking Bad</b> location - Walt&#39;s home.',
+    cacheId: 'VGdcAqh9sN8J',
+    formattedUrl: 'https://www.google.com/mymaps/viewer?mid...DhEOE8&hl=en_US',
+    htmlFormattedUrl: 'https://www.google.com/mymaps/viewer?mid...DhEOE8&amp;hl=en_US',
+    pagemap: [Object]
+  },
+  {
+    kind: 'customsearch#result',
+    title: 'Torrent breaking bad season 1 subtitles - Google My Maps', 
+    htmlTitle: 'Torrent <b>breaking bad</b> season 1 subtitles - Google My Maps',
+    link: 'https://www.google.com/mymaps/viewer?mid=1r8RgNcprxwkWPTP8TGNra9RxlWzEwAio&hl=en_US',
+    displayLink: 'www.google.com',
+    snippet: 'Jan 13, 2018 ... Torrent breaking bad season 1 subtitles => http://unerbawal.moikanikuli.ru/?dl&keyword=torrent+breaking+bad+season+1+subtitles&source=gmaps ...',
+    htmlSnippet: 'Jan 13, 2018 <b>...</b> Torrent <b>breaking bad</b> season 1 subtitles =&gt; http://unerbawal.moikanikuli.ru/?dl&amp;keyword=torrent+breaking+bad+season+1+subtitles&amp;source=gmaps&nbsp;...',       
+    cacheId: 'Hm_SiqC2BqwJ',
+    formattedUrl: 'https://www.google.com/mymaps/viewer?mid...hl=en_US',
+    htmlFormattedUrl: 'https://www.google.com/mymaps/viewer?mid...hl=en_US',
+    pagemap: [Object]
+  }
+]
+}
