@@ -6,7 +6,6 @@ import Footer from "../Components/Footer";
 import { signIn, signOut, useSession } from "next-auth/react";
 import { useRef } from "react";
 import { useRouter } from "next/router";
-import { Helmet } from "react-helmet";
 
 export default function Home() {
   const { data: session, status } = useSession();
