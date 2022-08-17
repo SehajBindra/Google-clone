@@ -6,7 +6,7 @@ function SignIn({ providers }) {
   return (
     <>
       <Head>
-        <title>Login - Google-Clone</title>
+        <title>Login - Google-clone</title>
 
         <link
           rel="icon"
