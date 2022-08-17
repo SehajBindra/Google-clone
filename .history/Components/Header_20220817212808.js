@@ -31,7 +31,7 @@ function Header() {
 
         <form className="flex border border-gray-200 max-w-3xl flex-grow rounded-full px-1 py-3 ml-8 mr-5 shadow-lg items-center  ">
           <input
-            className="flex-grow w-full outline-none outline-0  focus:outline-none ml-3  "
+            className="flex-grow w-full outline-none  focus:outline-none ml-3  "
             ref={SearchInputRef}
             type="text"
           />
@@ -62,11 +62,15 @@ function Header() {
           <ViewGridIcon className="hidden h-10 w-10 cursor-pointer p-2 rounded-full hover:bg-gray-100 sm:inline-flex" />
 
           {/* avatar */}
-
           <img
+            onClick={!session ? signIn : signOut}
             className="avatar "
             loading="lazy"
-            src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt974d872b695b0d81/624ae84f0156b57dc6d81cd1/Ryan_Reynolds.jpg"
+            src={
+              session
+                ? `${session?.user.image}`
+                : "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt974d872b695b0d81/624ae84f0156b57dc6d81cd1/Ryan_Reynolds.jpg"
+            }
             alt=""
           />
         </div>
