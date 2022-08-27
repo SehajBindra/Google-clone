@@ -52,7 +52,7 @@ export default function Home() {
 
         {/* right */}
         <div className="flex space-x-4 items-center pb-1">
-          <p className="link">Gmail(clone)</p>
+          <p className="link">Gmail</p>
           <p className="link">Images</p>
 
           {/* Icon */}
